@@ -1,7 +1,7 @@
 # **Strukova Alina** 
-**Phone number:** +375447472203 
-**E-mail:** al-strukova@mail.ru 
-**VK:** [Alina Strukova](https://vk.com/al_strukova) 
+**Phone number:** +375447472203  
+**E-mail:** al-strukova@mail.ru  
+**VK:** [Alina Strukova](https://vk.com/al_strukova)  
 
 ### _About me_
 I am a sociable and responsible student who is moving towards his goal. I devote a lot of time to study and constantly improve my skills.
