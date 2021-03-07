@@ -39,4 +39,3 @@ Besides, I'm constantly studying programming on my own, and now I'm a student of
 - English – B1
 - Belarusian – High level
 - Polish – Beginner
-mur
