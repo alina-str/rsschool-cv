@@ -1,7 +1,7 @@
 # **Strukova Alina** 
-**Phone number:** +375447472203
-**E-mail:** al-strukova@mail.ru
-**VK:** [Alina Strukova](https://vk.com/al_strukova)
+**Phone number:** +375447472203 
+**E-mail:** al-strukova@mail.ru 
+**VK:** [Alina Strukova](https://vk.com/al_strukova) 
 
 ### _About me_
 I am a sociable and responsible student who is moving towards his goal. I devote a lot of time to study and constantly improve my skills.
@@ -15,7 +15,8 @@ It's important for me to do everything possible to complete tasks efficiently.
 
 ### _Code Example_
 ```javascript
-function removeEveryOther(arr){
+function removeEveryOther(arr)
+{
   let i=0;
   let k=1;
   while(i<arr.length)
